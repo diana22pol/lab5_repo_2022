@@ -1,7 +1,7 @@
 #include <iostream>
 #include <math.h>
-#include "lab5.h"
-#include "labb5.h"
+#include "Point.h"
+#include "Polynom.h"
 using namespace std;
 
 int main() {
