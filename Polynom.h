@@ -3,7 +3,6 @@
 #include <math.h>
 using namespace std;
 
-//corrected file
 class Polynom
 {
     string name;
